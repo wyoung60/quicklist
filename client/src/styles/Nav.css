@@ -1,0 +1,30 @@
+.LogInOUT {
+  float: right;
+  clear: both;
+  display: inline;
+  margin-right: 2px;
+}
+.nav-item {
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 3px;
+}
+.navBar {
+  background-color: white;
+  height: 5rem;
+  width: 150%;
+  margin-right: 0px;
+}
+.title {
+  text-align: center;
+  margin-top: -30px;
+  /* font-size: 48px; */
+  font-weight: 500;
+  /* font-family: cursive; */
+}
+.navLinks {
+  margin-left: -20px;
+}
+/* .navBar:hover {
+  font-size: 30px;
+} */
